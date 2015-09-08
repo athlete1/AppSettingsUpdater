@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSettingsUpdater", "AppSettingsUpdater\AppSettingsUpdater.csproj", "{B8D7E6DC-16E7-46EC-8F17-AEDDB427FA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D7E6DC-16E7-46EC-8F17-AEDDB427FA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D7E6DC-16E7-46EC-8F17-AEDDB427FA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D7E6DC-16E7-46EC-8F17-AEDDB427FA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D7E6DC-16E7-46EC-8F17-AEDDB427FA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
